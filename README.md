@@ -1,4 +1,4 @@
- Hey, I'm Edwin 🌚, 
+## Hey, I'm Edwin 🌚
  
 👨🏽‍💻  a software developer, <br />
 🎓  BSc Information Technology Management <br />
